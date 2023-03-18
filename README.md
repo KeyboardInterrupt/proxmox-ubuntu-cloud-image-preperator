@@ -27,10 +27,7 @@ export STORAGE_POOL="local-lvm"
 export VM_ID="10000"
 export USERNAME="ubuntu}"
 export GITHUB_USERNAME="keyboardinterrupt" # This is used to grab the ssh public key for Login!
-export PACKAGES_TO_INSTALL="${PACKAGES_TO_INSTALL:-qemu-guest-agent,htop}"
-
-# You can add your own packages by splitting them with comma between
-export PACKAGES_TO_INSTALL="qemu-guest-agent,htop"
+export PACKAGES_TO_INSTALL="qemu-guest-agent,htop" # coma seperated list of packages to install
 ```
 
 ## Run the script
