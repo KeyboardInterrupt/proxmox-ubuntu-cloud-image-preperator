@@ -1,5 +1,5 @@
-# proxmox-cloud-image-generator
-Configurable script that automates generation of ubuntu's cloud image templates for Proxmox.
+# proxmox-ubuntu-cloud-image-preperator
+Configurable script that automates generation of ubuntu cloud image templates for Proxmox.
 
 # Usage:
 
